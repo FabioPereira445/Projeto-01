@@ -1,1 +1,6 @@
+/* styles.css */
+.centralizada {
+    margin: 0 auto;
+    display: block;
+}
 
