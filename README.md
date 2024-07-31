@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Projeto-01</title>
+   
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -11,4 +11,5 @@
     <p>O projeto de análise exploratória de dados foi realizado para a empresa Loggi, uma startup brasileira de logística. O objetivo foi entender e otimizar os desafios logísticos enfrentados pela empresa, como a otimização de rotas de entrega e a alocação de pedidos em veículos com capacidade limitada.</p>
 </body>
 </html>
+
 
