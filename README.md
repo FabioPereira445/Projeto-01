@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html>
-<head>
-   
-    <link rel="stylesheet" href="styles.css">
-</head>
+
+ <link rel="stylesheet" href="styles.css">
 <body>
     <h1>Análise Exploratória de Dados: Empresa Loggi</h1>
     <img src="images/project1_1.jpeg" alt="Uma bela paisagem" width="500" height="500" title="Clique para ampliar">
