@@ -29,7 +29,7 @@
         <li><strong>size:</strong> um int com o tamanho ou a carga que a entrega ocupa no veículo.</li>
     </ul> 
 <h2>3. Resultados</h2>
-<h3>3.1 Insights da Análise Exploratória</h3>
+<h3>3.1 Insights da Análise Exploratória em Python</h3>
 <p> 
 <ul>
   <li><P><b>Identificação de Áreas de Alta Demanda:</b></P></li>
@@ -58,10 +58,17 @@
 </p>
   
 <h2>4. Ferramentas utilizadas</h2>
-<img src="images/img_python.svg" alt="Uma bela paisagem" width="85" height="35" title="Clique para ampliar">
-<img src="images/img_pandas.svg" alt="Uma bela paisagem" width="85" height="35" title="Clique para ampliar">
-<img src="images/img_numpy.svg" alt="Uma bela paisagem" width="85" height="35" title="Clique para ampliar">
-<img src="images/img_geopandas.png" alt="Uma bela paisagem" width="85" height="35" title="Clique para ampliar">
+<img src="images/img_python.svg" alt="Uma bela paisagem" width="75" height="25" title="img_python">
+<img src="images/img_VScode.svg" alt="Uma bela paisagem" width="75" height="25" title="img_VScode">
+<img src="images/img_jupyter.svg" alt="Uma bela paisagem" width="75" height="25" title="img_jupyter">
+<h3>4.1 Bilbliotecas Python utilizadas</h3>
+<img src="images/img_pandas.svg" alt="Uma bela paisagem" width="75" height="25" title="img_pandas">
+<img src="images/img_matplotlib.svg" alt="Uma bela paisagem" width="75" height="25" title="img_matplotlib">
+<img src="images/img_seaborn.svg" alt="Uma bela paisagem" width="75" height="25" title="Clique para ampliar">
+<img src="images/img_numpy.svg" alt="Uma bela paisagem" width="75" height="25" title="img_numpy">
+<img src="images/img_geopandas.png" alt="Uma bela paisagem" width="75" height="25" title="img_numpy">
+
+
 
 </body>
 </html>
