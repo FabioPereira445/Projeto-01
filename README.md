@@ -58,5 +58,10 @@
 </p>
   
 <h2>4. Ferramentas utilizadas</h2>
+<img src="images/img_python.svg" alt="Uma bela paisagem" width="85" height="35" title="Clique para ampliar">
+<img src="images/img_pandas.svg" alt="Uma bela paisagem" width="85" height="35" title="Clique para ampliar">
+<img src="images/img_numpy.svg" alt="Uma bela paisagem" width="85" height="35" title="Clique para ampliar">
+<img src="images/img_geopandas.png" alt="Uma bela paisagem" width="85" height="35" title="Clique para ampliar">
+
 </body>
 </html>
